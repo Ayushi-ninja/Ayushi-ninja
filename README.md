@@ -7,9 +7,10 @@
 🤖 AI | 🌐 Web Development | 🧠 Competitive Programming  
 
 > *"Turning logic into impactful solutions."*
-> <p align="center">
-  <img src="(https://github.com/Ayushi-ninja/Ayushi-ninja/blob/main/ChatGPT%20Image%20Dec%2030%2C%202025%2C%2011_38_31%20AM.png)" width="800"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayushi-ninja/Ayushi-ninja/main/ChatGPT%20Image%20Dec%2030%2C%202025%2C%2011_38_31%20AM.png" width="800"/>
 </p>
+
 
 
 ---
