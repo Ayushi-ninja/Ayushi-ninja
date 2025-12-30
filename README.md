@@ -54,7 +54,10 @@
 
 ### 💡 Random Dev Quote
 
-> *"The best error message is the one that never shows up."*  
+## 🔥 Random Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 ---
 
