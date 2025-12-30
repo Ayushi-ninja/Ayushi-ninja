@@ -78,8 +78,9 @@
 ---
 
 ### 💡 Random Dev Quote
-
+<p align="center">
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</p>
 
 ---
 
@@ -89,9 +90,9 @@
 
 
 ---
-<p align="center">
 Thanks for visiting! 🚀  
-⭐ Feel free to explore my repositories and connect with me
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer)
+<p align="center">
+<h2>⭐ Feel free to explore my repositories and connect with me</h2>
 </p>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer)
 
