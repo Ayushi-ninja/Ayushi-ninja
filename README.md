@@ -20,19 +20,19 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:rajputayushi979@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://linkedin.com/in/ayushi-rajput-91aa5b28b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/YOUR_ID">
+  <a href="https://instagram.com/ayushi36145">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
   </a>
   <a href="https://github.com/Ayushi-ninja">
     <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/YOUR_INVITE">
+  <a href="https://discord.gg/ayushirajput0677">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/>
   </a>
 </p>
