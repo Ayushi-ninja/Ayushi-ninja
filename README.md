@@ -12,7 +12,7 @@
 </p>
 
 
----
+
 
 
 
@@ -37,7 +37,7 @@
 </p>
 
 
----
+
 
 ### 🛠 Tech Stack
 
@@ -45,13 +45,13 @@
   
 ![Skills](https://skillicons.dev/icons?i=ts,python,java,js,html,css,react,nodejs)
 
----
+
 
 ### ⚙️ Tools & Platforms
 
 ![Tools](https://skillicons.dev/icons?i=vscode,git,github,linux,figma)
 
----
+
 
 ### 📊 GitHub Statistics
 <img align="right" width="200" src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif"/>
@@ -66,7 +66,6 @@
 
 
 
----
 
 ### 🚀 Areas of Interest
 
@@ -75,23 +74,20 @@
 - 🧠 Data Structures & Algorithms  
 - ⚔️ Competitive Programming  
 
----
 
 ### 💡 Random Dev Quote
-
-## 🔥 Random Dev Quote
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
----
 
 ### ✨ Fun Fact
 
 ⚡ I enjoy solving complex problems and transforming ideas into real-world applications.
 
----
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer)
+
+
 
 Thanks for visiting! 🚀  
 ⭐ Feel free to explore my repositories and connect with me
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer)
