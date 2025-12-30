@@ -59,7 +59,7 @@
 
 ![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayushi-ninja&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ayushi-ninja&theme=tokyonight)  <img align="right" width="200" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ayushi-ninja&theme=tokyonight)  
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi-ninja&layout=compact&theme=tokyonight)
