@@ -39,7 +39,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Ayushi-ninja&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi-ninja&layout=compact&theme=tokyonight)
-![test](https://skillicons.dev/icons?i=python)
 
 ---
 
