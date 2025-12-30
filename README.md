@@ -7,14 +7,35 @@
 🤖 AI | 🌐 Web Development | 🧠 Competitive Programming  
 
 > *"Turning logic into impactful solutions."*
+> <p align="center">
+  <img src="(https://github.com/Ayushi-ninja/Ayushi-ninja/blob/main/ChatGPT%20Image%20Dec%2030%2C%202025%2C%2011_38_31%20AM.png)" width="800"/>
+</p>
+
 
 ---
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Ayushi-ninja)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/YOUR_ID">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ayushi-ninja">
+    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/YOUR_INVITE">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/>
+  </a>
+</p>
+
 
 ---
 
@@ -33,12 +54,16 @@
 ---
 
 ### 📊 GitHub Statistics
+<img align="right" width="200" src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif"/>
 
 ![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayushi-ninja&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Ayushi-ninja&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi-ninja&layout=compact&theme=tokyonight)
+
+
+
 
 
 ---
@@ -66,6 +91,7 @@
 ⚡ I enjoy solving complex problems and transforming ideas into real-world applications.
 
 ---
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer)
 
 Thanks for visiting! 🚀  
 ⭐ Feel free to explore my repositories and connect with me
