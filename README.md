@@ -78,21 +78,15 @@
 ---
 
 ### 💡 Random Dev Quote
-<p align="center">
+
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-</p>
-
----
-
-### ✨ Fun Fact
-
-⚡ I enjoy solving complex problems and transforming ideas into real-world applications.
 
 
 ---
 Thanks for visiting! 🚀  
 <p align="center">
-<h2>⭐ Feel free to explore my repositories and connect with me</h2>
+<h4>⭐ Feel free to explore my repositories and connect with me</h4>
 </p>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer)
 
