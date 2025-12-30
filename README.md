@@ -1,4 +1,4 @@
-![header](![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ayushi%20Ninja&fontSize=40)
+(![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ayushi%20Ninja&fontSize=40)
 
 ## 👋 Hi, I'm Ayushi  
 
