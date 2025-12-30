@@ -89,7 +89,9 @@
 
 
 ---
-
+<p align="center">
 Thanks for visiting! 🚀  
 ⭐ Feel free to explore my repositories and connect with me
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer)
+</p>
+
